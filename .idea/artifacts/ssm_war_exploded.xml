@@ -30,8 +30,9 @@
           <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.1" />
           <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.4" />
           <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.15" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-nop:1.7.24" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.24" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.1.8.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.1.8.RELEASE" />
           <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.6" />
